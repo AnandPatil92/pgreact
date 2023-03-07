@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="44">
+            <item index="0" class="java.lang.String" itemvalue="bs4" />
+            <item index="1" class="java.lang.String" itemvalue="json_flatten" />
+            <item index="2" class="java.lang.String" itemvalue="netifaces" />
+            <item index="3" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="5" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="python-nmap" />
+            <item index="8" class="java.lang.String" itemvalue="jsonpickle" />
+            <item index="9" class="java.lang.String" itemvalue="xmler" />
+            <item index="10" class="java.lang.String" itemvalue="requests" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="es-pandas" />
+            <item index="13" class="java.lang.String" itemvalue="pymsteams" />
+            <item index="14" class="java.lang.String" itemvalue="pyarmor" />
+            <item index="15" class="java.lang.String" itemvalue="netaddr" />
+            <item index="16" class="java.lang.String" itemvalue="lxml" />
+            <item index="17" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="18" class="java.lang.String" itemvalue="gitpython" />
+            <item index="19" class="java.lang.String" itemvalue="pycountry" />
+            <item index="20" class="java.lang.String" itemvalue="jira" />
+            <item index="21" class="java.lang.String" itemvalue="certbot-nginx" />
+            <item index="22" class="java.lang.String" itemvalue="aioredis-cluster" />
+            <item index="23" class="java.lang.String" itemvalue="pydantic" />
+            <item index="24" class="java.lang.String" itemvalue="adal" />
+            <item index="25" class="java.lang.String" itemvalue="O365" />
+            <item index="26" class="java.lang.String" itemvalue="progressbar2" />
+            <item index="27" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="28" class="java.lang.String" itemvalue="pdfkit" />
+            <item index="29" class="java.lang.String" itemvalue="python-pptx" />
+            <item index="30" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="31" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="32" class="java.lang.String" itemvalue="pandas" />
+            <item index="33" class="java.lang.String" itemvalue="boto3" />
+            <item index="34" class="java.lang.String" itemvalue="paramiko" />
+            <item index="35" class="java.lang.String" itemvalue="aioredis" />
+            <item index="36" class="java.lang.String" itemvalue="docxtpl" />
+            <item index="37" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="38" class="java.lang.String" itemvalue="paho-mqtt" />
+            <item index="39" class="java.lang.String" itemvalue="jsonbender" />
+            <item index="40" class="java.lang.String" itemvalue="pyvirtualdisplay" />
+            <item index="41" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="42" class="java.lang.String" itemvalue="json_logic" />
+            <item index="43" class="java.lang.String" itemvalue="python-consul" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
